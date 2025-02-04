@@ -1,0 +1,1 @@
+This repository contains a collection of sample practice programs covering various data structures, algorithms, and problem-solving techniques. Each program is well-structured and designed to enhance coding skills through hands-on implementation.
